@@ -1,0 +1,21 @@
+ 2 10 
+ 54 129 155 559 10 10 
+ 99999 3 
+ 120 195 258 744 10 10 
+ 3 99999 
+
+
+
+*/
+numberofaircraft - fixed
+freeze - fixed
+
+appearance
+earliest
+target
+latest
+penalty_before
+penalty_after
+
+seperation[]
+*/
